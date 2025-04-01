@@ -11,7 +11,6 @@ This project analyzes hotel booking data and applies machine learning models to 
 
 ## 📂 Dataset  
 - The dataset includes booking details such as check-in dates, lead times, customer types, cancellation status, and more.  
-- Features include **guest demographics, booking lead time, room type, meal plan, deposit type, and special requests**.  
 
 ## 📊 Exploratory Data Analysis  
 - Distribution of cancellations vs. non-cancellations  
